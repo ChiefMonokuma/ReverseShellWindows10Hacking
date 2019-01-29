@@ -1,0 +1,4 @@
+screen -list
+There is a screen on:
+	22794.netcat_listener 	(11/01/2016 03:36:01 PM)	(Detached)
+1 Socket in /var/run/screen/S-dk.
