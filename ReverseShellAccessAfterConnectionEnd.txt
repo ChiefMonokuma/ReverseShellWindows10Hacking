@@ -1,0 +1,1 @@
+screen -dmS netcat_listener bash -c 'while true; do nc -lp 4444; done'
